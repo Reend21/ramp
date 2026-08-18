@@ -1,0 +1,8 @@
+<table name="Reend's Awesome Modpack">
+    <AssetUpdates id="54905" provider="modworkshop" version="1"/>
+
+    <Dependencies>
+        <Dependency id="12345" provider="modworkshop" name="VanillaHUD+"/>
+        <Dependency id="67890" provider="modworkshop" name="placeholder"/>
+    </Dependencies>
+</table>
