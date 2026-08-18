@@ -26,7 +26,7 @@ This modpack isn't just a "vanilla but slightly better" modpack. It includes:
 - Overhaul mods (e.g., [Restoration Mod](https://modworkshop.net/mod/428))
 - Mods that add new music, maps, weapons, etc.
 - Furry and gay mods
-- Any overthemed UI element
+- Any overly themed UI element
 - Most importantly, **Cheatworkshop** mods
 
 I'm open to any mod suggestions. If you tell me which mods are good and which ones are unnecessary, I'll improve the modpack. Some standalone mods may already be included in other mods (like VanillaHUD+), so if there is a situation like this, please provide feedback!
