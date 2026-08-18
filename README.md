@@ -8,34 +8,46 @@ Reend's Awesome Modpack for Payday 2
 
 </div>
 
-# RAMP (Reend's Awesome ModPack)
+# RAMP (Reend's Awesome Modpack)
 
-> *This Modpack targeting to players play this game with minimized bugs, much bearable AI and wide-range QoL improvements. Now it's Diesel 3 compatible!*
+> *This modpack targets players who want to play Payday 2 with minimized bugs, significantly improved AI, and a wide range of QoL improvements. Now Diesel 3 compatible!*
 
-This mod isn't just a "native but slightly better mod". This mod contains mod like; **Mods that improve enemy and hostile AI, General QoL mods, bugfixes, texture improvements, anticrash mods, "helpers", SFX improvements and etc. So this mod isn't a great mod that people want a native game but without crashes and people that would play this game for a criticise.**
+This modpack isn't just a "vanilla but slightly better" modpack. It includes:
+- Mods that improve enemy and hostile AI
+- General QoL (Quality of Life) mods
+- Bug fixes and anti-crash mods
+- Texture and SFX improvements
+- "Helper" mods
 
-This mod doesn't contain mods like; **Mods that adds completely new mechanic to the game, Furry and gay mods, Mods like [Restoration Mod](https://modworkshop.net/mod/428), Mods that add new musics, map, gun etc. to the game. And most importantly **cheatworkshop** mods.**
+*Note: This modpack may not suit players looking for a strictly vanilla experience with only crash fixes, or those who play the game just to criticize it.*
 
-I'm open to any mod suggestions. if you tell me which mods are good and which ones are useless, I'll improve the modpack. Some standalone mods may have been already included in any other mods (like vainllahud+) so if there is a situtation like this, please give a feedback.
+### What this modpack does NOT include:
+- Mods that add completely new mechanics to the game
+- Overhaul mods (e.g., [Restoration Mod](https://modworkshop.net/mod/428))
+- Mods that add new music, maps, weapons, etc.
+- Furry or themed overhaul mods
+- Most importantly, **Cheatworkshop** mods
 
-# Mods in this modpack
+I'm open to any mod suggestions. If you tell me which mods are good and which ones are unnecessary, I'll improve the modpack. Some standalone mods may already be included in other mods (like VanillaHUD+), so if there is a situation like this, please provide feedback!
 
-- work in progress
+## Mods in This Modpack
 
-# Installation
+- Work in progress
 
-## Prerequests
+## Installation
 
-- **SuperBLT** version that has a Diesel 3 Engine support.
-- Beardlib
+### Prerequisites
 
-## Installing the modpack
+- **SuperBLT** (version with Diesel 3 Engine support)
+- **BeardLib**
 
-- Install the zip via GitHub or ModWorkshop and extract it
-- Drop the "main.xml" file in the autoInstallationScript folder into the your mods folder
+### Installing the Modpack
+
+- Download the ZIP file via GitHub or ModWorkshop and extract it
+- Drop the `main.xml` file from the `autoInstallScript` folder into your `mods` folder
 - Run the game and install the mods
 - You're done!
 
-# License  
+## License
 
-All this repo licensed under GPL-3.0 license. Check the **LICENSE** file for more information.
+This repository is licensed under the GPL-3.0 License. See the [LICENSE](LICENSE) file for more information.
