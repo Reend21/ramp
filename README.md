@@ -45,8 +45,8 @@ I'm open to any mod suggestions. If you tell me which mods are good and which on
 ### Installing the Modpack
 
 - Download the ZIP file via GitHub or ModWorkshop and extract it
-- Drop the `main.xml` file from the `autoInstallScript` folder into your `mods` folder
-- Run the game and install the mods
+- Drop the `autoInstallScript` folder into your `mods` folder
+- Run the game and go to Setting > BeardLib Mod Manager and then download the mods
 - You're done!
 
 ## License

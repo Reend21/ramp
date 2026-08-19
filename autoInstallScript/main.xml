@@ -10,7 +10,6 @@
         <Dependency id="50103" provider="modworkshop" name="Replace less pagers modifier in Crime Spree"/>
         <Dependency id="12805" provider="modworkshop" name="No Confirm Dialogs"/>
         <Dependency id="25950" provider="modworkshop" name="Meth Helper Updated"/>
-        <Dependency id="42283" provider="modworkshop" name="Endscreen XP List"/>
         <Dependency id="33680" provider="modworkshop" name="Custom FOV Updated by Appii"/>
     </Dependencies>
 </table>
