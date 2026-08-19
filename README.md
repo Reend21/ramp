@@ -33,7 +33,15 @@ I'm open to any mod suggestions. If you tell me which mods are good and which on
 
 ## Mods in This Modpack
 
-- Work in progress
+- VanillaHUD+
+- Hide Duplicate Skins
+- Joining Screen Selector
+- Legendary Armour Skins
+- No corners Reborn
+- Replace less pagers modifier in Crime Spree
+- No Confirm Dialogs
+- Meth Helper Updated
+- Custom FOV Updated by Appii
 
 ## Installation
 
