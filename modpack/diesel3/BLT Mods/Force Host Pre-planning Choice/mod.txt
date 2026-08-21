@@ -1,0 +1,13 @@
+{
+ 	"name": "Force Host Pre-planning Choice",
+ 	"description": "Forces the host's vote on pre-planning escapes and entry plans.",
+ 	"author": "u/intergalacticninja on Reddit",
+ 	"contact": "",
+ 	"version": "1",
+ 	"blt_version" : 2,
+ 	"priority": 500,
+ 	"hooks": [{
+ 		"hook_id": "lib/managers/preplanningmanager",
+ 		"script_path": "forcehostpreplanningchoice.lua"
+ 	}]
+}

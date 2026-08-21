@@ -1,0 +1,8 @@
+{
+	"custom_FOV_menu_title" : "FOV personnalisé",
+	"custom_FOV_menu_desc" : "Personnaliser son FOV",
+
+	"sld_more_FOV_title" : "FOV",
+	"sld_more_FOV_desc" : "Personnaliser son FOV",
+
+}

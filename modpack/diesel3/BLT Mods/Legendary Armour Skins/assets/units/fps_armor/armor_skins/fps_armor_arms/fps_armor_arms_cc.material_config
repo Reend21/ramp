@@ -1,0 +1,23 @@
+<materials version="3" group="fps_armor_arms">
+	<material name="mtr_enforcer_vest" render_template="generic_customizable:CUBE_ENVIRONMENT_MAPPING:DECAL_STICKER_UV2:DEPTH_SCALING:DIFFUSE_TEXTURE:GRADIENTMAP:NORMALMAP:PATTERN_GRADIENTMAP:PATTERN_GRADIENTMAP_ANGLE_OFFSET:PATTERN_UV2:SKINNED_3WEIGHTS:WEAR_TEAR_MASKING" version="2">
+		<diffuse_texture file="units/payday2/characters/shared_textures/vest_big_01_df_cc"/>
+		<bump_normal_texture file="units/payday2/characters/shared_textures/vest_big_nm"/>
+
+		<diffuse_layer0_texture file="units/payday2_cash/safes/default/pattern/pattern_default_df"/>
+		<diffuse_layer1_texture file="units/payday2_cash/safes/default/base_gradient/base_default_df"/>
+		<diffuse_layer2_texture file="units/payday2_cash/safes/default/pattern_gradient/gradient_default_df"/>
+		<diffuse_layer3_texture file="units/payday2_cash/safes/default/sticker/sticker_default_df"/>
+
+		<reflection_texture type="cube" global_texture="current_global_texture"/>
+		
+		<variable type="vector3" name="pattern_tweak" value="4 0 1"/>
+		<variable type="vector3" name="pattern_pos" value="0 0 0"/>
+		<variable type="scalar" name="wear_tear_value" value="0"/>
+		<variable type="vector3" name="uv_scale" value="1 1 1"/>
+		<variable type="vector3" name="uv_offset_rot" value="0 0 0"/>
+		<variable type="vector3" name="cubemap_pattern_control" value="0 0 0"/>
+
+		<variable type="scalar" name="contour_opacity" value="1.4140792656548e+19"/>
+		<variable type="vector3" name="contour_color" value="0 0 0"/>
+	</material>
+</materials>

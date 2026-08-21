@@ -1,0 +1,6 @@
+<materials version="3"> 
+	<material render_template="generic:DEPTH_SCALING:DIFFUSE_TEXTURE:NORMALMAP:SKINNED_3WEIGHTS" version="2" name="mtr_body">
+		<bump_normal_texture file="units/special_outfits/armor_skins/hev/hev_nm"/>
+		<diffuse_texture file="units/special_outfits/armor_skins/hev/hev_df"/>
+	</material>
+</materials>

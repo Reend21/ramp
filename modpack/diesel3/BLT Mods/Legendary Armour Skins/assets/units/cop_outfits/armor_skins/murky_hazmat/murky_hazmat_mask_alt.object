@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<dynamic_object>
+	<diesel materials="units/cop_outfits/armor_skins/murky_hazmat/murky_hazmat_mask" orientation_object="root_point" />
+
+	<graphics>
+		<graphic_group name="character" enabled="true" culling_object="g_body_lod0">
+			<object name="g_body_lod0" enabled="true"/>
+		</graphic_group>
+	</graphics>
+</dynamic_object>

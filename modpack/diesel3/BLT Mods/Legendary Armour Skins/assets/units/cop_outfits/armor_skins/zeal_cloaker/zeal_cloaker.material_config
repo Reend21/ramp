@@ -1,0 +1,9 @@
+<materials version="3" group="ene_zeal_cloaker">
+	<material name="mtr_body" unique="true" render_template="generic:CONTOUR:DIFFUSE_TEXTURE:NORMALMAP:RL_PLAYERS:SKINNED_3WEIGHTS" version="2">
+		<bump_normal_texture 	file="units/pd2_dlc_gitgud/characters/ene_zeal_cloaker/zeal_cloaker_body_nm"/>
+		<diffuse_texture 		file="units/pd2_dlc_gitgud/characters/ene_zeal_cloaker/zeal_cloaker_body_df"/>
+
+		<variable value="0" type="scalar" name="contour_opacity"/>
+		<variable value="0 0 0" type="vector3" name="contour_color"/>
+	</material>
+</materials>

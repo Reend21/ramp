@@ -1,0 +1,23 @@
+{
+	"better_force_start_settings_title": "Neo Force Start",
+	"better_force_start_settings_description": "Settings for Neo Force Start",
+	"better_force_start_settings_enter_mode_selector_title": "Start on spam ready",
+	"better_force_start_settings_enter_mode_selector_description": "Set the mod's behavior when spamming the ready/unready button",
+	"better_force_start_settings_enter_mode_selector_everyone": "Everyone",
+	"better_force_start_settings_enter_mode_selector_ready": "Ready Only",
+	"better_force_start_settings_enter_mode_selector_host": "Host Only",
+	"better_force_start_settings_enter_mode_selector_off": "Disabled",
+	"better_force_start_settings_client_title": "Client Force Start",
+	"better_force_start_settings_client_description": "Set the mod's behavior when clients spam the ready/unready button",
+	"better_force_start_settings_client_everyone": "Everyone",
+	"better_force_start_settings_client_ready": "Ready only",
+	"better_force_start_settings_client_off": "Disabled",
+	"better_force_start_settings_prompt_title": "Send To Waiting Room",
+	"better_force_start_settings_prompt_description": "Make readied clients spectate the host when starting the heist without them, ignoring heist drop-in settings",
+	"better_force_start_host_name": "Start Solo",
+	"better_force_start_host_description": "Start the heist leaving all clients in the lobby",
+	"better_force_start_ready_name": "Start With Ready Players",
+	"better_force_start_ready_description": "Start the heist leaving all unreadied clients in the lobby",
+	"better_force_start_everyone_title": "Start With All Players",
+	"better_force_start_everyone_description": "Start the heist spawning all players regardless of whether or not they are ready"
+}

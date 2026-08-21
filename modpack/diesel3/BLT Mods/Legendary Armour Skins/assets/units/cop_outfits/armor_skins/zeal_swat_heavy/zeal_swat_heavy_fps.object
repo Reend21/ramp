@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<dynamic_object>
+	<diesel materials="units/cop_outfits/armor_skins/zeal_swat_heavy/zeal_swat_heavy_fps" orientation_object="root_point" />
+
+	<graphics>
+		<graphic_group name="character" enabled="true" culling_object="g_body">
+			<object name="g_body" enabled="true"/>
+		</graphic_group>
+	</graphics>
+</dynamic_object>

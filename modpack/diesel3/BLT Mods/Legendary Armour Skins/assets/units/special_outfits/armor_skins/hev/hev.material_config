@@ -1,0 +1,9 @@
+<materials version="3">	
+	<material render_template="generic:CONTOUR:DIFFUSE_TEXTURE:NORMALMAP:RL_PLAYERS:SKINNED_3WEIGHTS" unique="true" version="2" name="mtr_body">
+		<bump_normal_texture file="units/special_outfits/armor_skins/hev/hev_nm"/>
+		<diffuse_texture file="units/special_outfits/armor_skins/hev/hev_df"/>
+
+		<variable value="0 0 0" type="vector3" name="contour_color"/>
+		<variable value="0" type="scalar" name="contour_opacity"/>
+	</material>
+</materials>

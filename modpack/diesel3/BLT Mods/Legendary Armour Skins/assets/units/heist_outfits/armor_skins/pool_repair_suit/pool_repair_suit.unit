@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<unit type="dah" slot="1">
+	<object file="units/heist_outfits/armor_skins/pool_repair_suit/pool_repair_suit" />
+
+	<extensions>
+		<extension name="unit_data" class="ScriptUnitData" />
+		<extension name="contour" class="ContourExt"/>
+		<extension name="damage" class="UnitDamage" />
+	</extensions>
+</unit>

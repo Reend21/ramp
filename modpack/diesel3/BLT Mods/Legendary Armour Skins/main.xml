@@ -1,0 +1,279 @@
+<table name="Legendary Armour Skins" global_key="LA_Skins" color="Color(0.6, 0.9, 0.1)" image="guis/mod_icons/la_skins">
+	<Localization directory="localization" default="english.txt"/>
+
+	<AssetUpdates id="24006" version="4.1.9" provider="modworkshop"/>
+
+	<Options name="Options" auto_build_menu="true" auto_load="true">
+		<options title_id="menu_las_options" desc_id="menu_las_options_desc">
+			<option type="bool" default_value="true" name="UseSkinCategories" title_id="menu_las_skin_categories" desc_id="menu_las_skin_categories_desc"/>
+			<option type="bool" default_value="true" name="UseAlternativeSkinMenu" title_id="menu_las_alt_skin_menu" desc_id="menu_las_alt_skin_menu_desc"/>
+			<option type="bool" default_value="false" name="HideLockedSkins" title_id="menu_las_hide_locked" desc_id="menu_las_hide_locked_desc"/>
+		</options>
+	</Options>
+
+	<AddFiles directory="assets">
+		<!-- Mod Icon -->
+			<texture path="guis/mod_icons/la_skins"/>
+
+		<!-- Cop Outfits Skins -->
+			<!-- Bulldozer Armour -->
+				<texture path="guis/dlcs/cop_outfits/armor_skins/bulldozer_green"/>
+				<texture path="guis/dlcs/cop_outfits/armor_skins/bulldozer_black"/>
+				<texture path="guis/dlcs/cop_outfits/armor_skins/bulldozer_skull"/>
+				<texture path="guis/dlcs/cop_outfits/armor_skins/bulldozer_mini"/>
+
+				<material_config path="units/cop_outfits/armor_skins/bulldozer/bulldozer_green"/>
+				<material_config path="units/cop_outfits/armor_skins/bulldozer/bulldozer_fps_green"/>
+				<material_config path="units/cop_outfits/armor_skins/bulldozer/bulldozer_black"/>
+				<material_config path="units/cop_outfits/armor_skins/bulldozer/bulldozer_fps_black"/>
+				<material_config path="units/cop_outfits/armor_skins/bulldozer/bulldozer_skull"/>
+				<material_config path="units/cop_outfits/armor_skins/bulldozer/bulldozer_fps_skull"/>
+				<material_config path="units/cop_outfits/armor_skins/bulldozer/bulldozer_mini"/>
+				<material_config path="units/cop_outfits/armor_skins/bulldozer/bulldozer_fps_mini"/>
+
+				<model path="units/cop_outfits/armor_skins/bulldozer/bulldozer"/>
+				<object path="units/cop_outfits/armor_skins/bulldozer/bulldozer"/>
+				<cooked_physics path="units/cop_outfits/armor_skins/bulldozer/bulldozer"/>
+				<unit path="units/cop_outfits/armor_skins/bulldozer/bulldozer"/>
+
+				<model path="units/cop_outfits/armor_skins/bulldozer/bulldozer_fps"/>
+				<object path="units/cop_outfits/armor_skins/bulldozer/bulldozer_fps"/>
+				<cooked_physics path="units/cop_outfits/armor_skins/bulldozer/bulldozer_fps"/>
+				<unit path="units/cop_outfits/armor_skins/bulldozer/bulldozer_fps"/>
+
+			<!-- Medic Armour -->
+				<texture path="guis/dlcs/cop_outfits/armor_skins/medic"/>
+
+				<material_config path="units/cop_outfits/armor_skins/medic/medic"/>
+				<material_config path="units/cop_outfits/armor_skins/medic/medic_fps"/>
+
+				<model path="units/cop_outfits/armor_skins/medic/medic"/>
+				<object path="units/cop_outfits/armor_skins/medic/medic"/>
+				<cooked_physics path="units/cop_outfits/armor_skins/medic/medic"/>
+				<unit path="units/cop_outfits/armor_skins/medic/medic"/>
+
+				<model path="units/cop_outfits/armor_skins/medic/medic_fps"/>
+				<object path="units/cop_outfits/armor_skins/medic/medic_fps"/>
+				<cooked_physics path="units/cop_outfits/armor_skins/medic/medic_fps"/>
+				<unit path="units/cop_outfits/armor_skins/medic/medic_fps"/>
+
+			<!-- Murkywater Hazmat Suit -->
+				<texture path="guis/dlcs/cop_outfits/armor_skins/murky_hazmat"/>
+				<texture path="guis/dlcs/cop_outfits/armor_skins/murky_hazmat_alt"/>
+
+				<material_config path="units/cop_outfits/armor_skins/murky_hazmat/murky_hazmat"/>
+				<material_config path="units/cop_outfits/armor_skins/murky_hazmat/murky_hazmat_mask"/>
+				<material_config path="units/cop_outfits/armor_skins/murky_hazmat/murky_hazmat_fps"/>
+
+				<model path="units/cop_outfits/armor_skins/murky_hazmat/murky_hazmat"/>
+				<object path="units/cop_outfits/armor_skins/murky_hazmat/murky_hazmat"/>
+				<cooked_physics path="units/cop_outfits/armor_skins/murky_hazmat/murky_hazmat"/>
+				<unit path="units/cop_outfits/armor_skins/murky_hazmat/murky_hazmat"/>
+
+				<model path="units/cop_outfits/armor_skins/murky_hazmat/murky_hazmat_alt"/>
+				<object path="units/cop_outfits/armor_skins/murky_hazmat/murky_hazmat_alt"/>
+				<cooked_physics path="units/cop_outfits/armor_skins/murky_hazmat/murky_hazmat_alt"/>
+				<unit path="units/cop_outfits/armor_skins/murky_hazmat/murky_hazmat_alt"/>
+
+				<model path="units/cop_outfits/armor_skins/murky_hazmat/murky_hazmat_mask"/>
+				<object path="units/cop_outfits/armor_skins/murky_hazmat/murky_hazmat_mask"/>
+				<cooked_physics path="units/cop_outfits/armor_skins/murky_hazmat/murky_hazmat_mask"/>
+				<unit path="units/cop_outfits/armor_skins/murky_hazmat/murky_hazmat_mask"/>
+
+				<model path="units/cop_outfits/armor_skins/murky_hazmat/murky_hazmat_mask_alt"/>
+				<object path="units/cop_outfits/armor_skins/murky_hazmat/murky_hazmat_mask_alt"/>
+				<cooked_physics path="units/cop_outfits/armor_skins/murky_hazmat/murky_hazmat_mask_alt"/>
+				<unit path="units/cop_outfits/armor_skins/murky_hazmat/murky_hazmat_mask_alt"/>
+
+				<model path="units/cop_outfits/armor_skins/murky_hazmat/murky_hazmat_fps"/>
+				<object path="units/cop_outfits/armor_skins/murky_hazmat/murky_hazmat_fps"/>
+				<cooked_physics path="units/cop_outfits/armor_skins/murky_hazmat/murky_hazmat_fps"/>
+				<unit path="units/cop_outfits/armor_skins/murky_hazmat/murky_hazmat_fps"/>
+
+			<!-- Phalanx Armour -->
+				<texture path="guis/dlcs/cop_outfits/armor_skins/phalanx"/>
+
+				<material_config path="units/cop_outfits/armor_skins/phalanx/phalanx"/>
+				<material_config path="units/cop_outfits/armor_skins/phalanx/phalanx_fps"/>
+
+				<model path="units/cop_outfits/armor_skins/phalanx/phalanx"/>
+				<object path="units/cop_outfits/armor_skins/phalanx/phalanx"/>
+				<cooked_physics path="units/cop_outfits/armor_skins/phalanx/phalanx"/>
+				<unit path="units/cop_outfits/armor_skins/phalanx/phalanx"/>
+
+				<model path="units/cop_outfits/armor_skins/phalanx/phalanx_fps"/>
+				<object path="units/cop_outfits/armor_skins/phalanx/phalanx_fps"/>
+				<cooked_physics path="units/cop_outfits/armor_skins/phalanx/phalanx_fps"/>
+				<unit path="units/cop_outfits/armor_skins/phalanx/phalanx_fps"/>
+
+			<!-- Russian Medic Armour -->
+				<texture path="guis/dlcs/cop_outfits/armor_skins/russian_medic"/>
+
+				<material_config path="units/cop_outfits/armor_skins/russian_medic/russian_medic"/>
+				<material_config path="units/cop_outfits/armor_skins/russian_medic/russian_medic_fps"/>
+
+				<model path="units/cop_outfits/armor_skins/russian_medic/russian_medic"/>
+				<object path="units/cop_outfits/armor_skins/russian_medic/russian_medic"/>
+				<cooked_physics path="units/cop_outfits/armor_skins/russian_medic/russian_medic"/>
+				<unit path="units/cop_outfits/armor_skins/russian_medic/russian_medic"/>
+
+				<model path="units/cop_outfits/armor_skins/russian_medic/russian_medic_fps"/>
+				<object path="units/cop_outfits/armor_skins/russian_medic/russian_medic_fps"/>
+				<cooked_physics path="units/cop_outfits/armor_skins/russian_medic/russian_medic_fps"/>
+				<unit path="units/cop_outfits/armor_skins/russian_medic/russian_medic_fps"/>
+
+			<!-- Captain Winters' Armour -->
+				<texture path="guis/dlcs/cop_outfits/armor_skins/winters"/>
+
+				<material_config path="units/cop_outfits/armor_skins/winters/winters"/>
+				<material_config path="units/cop_outfits/armor_skins/winters/winters_fps"/>
+
+				<model path="units/cop_outfits/armor_skins/winters/winters"/>
+				<object path="units/cop_outfits/armor_skins/winters/winters"/>
+				<cooked_physics path="units/cop_outfits/armor_skins/winters/winters"/>
+				<unit path="units/cop_outfits/armor_skins/winters/winters"/>
+
+				<model path="units/cop_outfits/armor_skins/winters/winters_fps"/>
+				<object path="units/cop_outfits/armor_skins/winters/winters_fps"/>
+				<cooked_physics path="units/cop_outfits/armor_skins/winters/winters_fps"/>
+				<unit path="units/cop_outfits/armor_skins/winters/winters_fps"/>
+
+			<!-- Zeal Cloaker Armour -->
+				<texture path="guis/dlcs/cop_outfits/armor_skins/zeal_cloaker"/>
+
+				<material_config path="units/cop_outfits/armor_skins/zeal_cloaker/zeal_cloaker"/>
+				<material_config path="units/cop_outfits/armor_skins/zeal_cloaker/zeal_cloaker_fps"/>
+
+				<model path="units/cop_outfits/armor_skins/zeal_cloaker/zeal_cloaker"/>
+				<object path="units/cop_outfits/armor_skins/zeal_cloaker/zeal_cloaker"/>
+				<cooked_physics path="units/cop_outfits/armor_skins/zeal_cloaker/zeal_cloaker"/>
+				<unit path="units/cop_outfits/armor_skins/zeal_cloaker/zeal_cloaker"/>
+
+				<model path="units/cop_outfits/armor_skins/zeal_cloaker/zeal_cloaker_fps"/>
+				<object path="units/cop_outfits/armor_skins/zeal_cloaker/zeal_cloaker_fps"/>
+				<cooked_physics path="units/cop_outfits/armor_skins/zeal_cloaker/zeal_cloaker_fps"/>
+				<unit path="units/cop_outfits/armor_skins/zeal_cloaker/zeal_cloaker_fps"/>
+
+			<!-- Zeal Swat Armour -->
+				<texture path="guis/dlcs/cop_outfits/armor_skins/zeal_swat"/>
+
+				<material_config path="units/cop_outfits/armor_skins/zeal_swat/zeal_swat"/>
+				<material_config path="units/cop_outfits/armor_skins/zeal_swat/zeal_swat_fps"/>
+
+				<model path="units/cop_outfits/armor_skins/zeal_swat/zeal_swat"/>
+				<object path="units/cop_outfits/armor_skins/zeal_swat/zeal_swat"/>
+				<cooked_physics path="units/cop_outfits/armor_skins/zeal_swat/zeal_swat"/>
+				<unit path="units/cop_outfits/armor_skins/zeal_swat/zeal_swat"/>
+
+				<model path="units/cop_outfits/armor_skins/zeal_swat/zeal_swat_fps"/>
+				<object path="units/cop_outfits/armor_skins/zeal_swat/zeal_swat_fps"/>
+				<cooked_physics path="units/cop_outfits/armor_skins/zeal_swat/zeal_swat_fps"/>
+				<unit path="units/cop_outfits/armor_skins/zeal_swat/zeal_swat_fps"/>
+
+			<!-- Zeal Swat Heavy Armour -->
+				<texture path="guis/dlcs/cop_outfits/armor_skins/zeal_swat_heavy"/>
+
+				<material_config path="units/cop_outfits/armor_skins/zeal_swat_heavy/zeal_swat_heavy"/>
+				<material_config path="units/cop_outfits/armor_skins/zeal_swat_heavy/zeal_swat_heavy_fps"/>
+
+				<model path="units/cop_outfits/armor_skins/zeal_swat_heavy/zeal_swat_heavy"/>
+				<object path="units/cop_outfits/armor_skins/zeal_swat_heavy/zeal_swat_heavy"/>
+				<cooked_physics path="units/cop_outfits/armor_skins/zeal_swat_heavy/zeal_swat_heavy"/>
+				<unit path="units/cop_outfits/armor_skins/zeal_swat_heavy/zeal_swat_heavy"/>
+
+				<model path="units/cop_outfits/armor_skins/zeal_swat_heavy/zeal_swat_heavy_fps"/>
+				<object path="units/cop_outfits/armor_skins/zeal_swat_heavy/zeal_swat_heavy_fps"/>
+				<cooked_physics path="units/cop_outfits/armor_skins/zeal_swat_heavy/zeal_swat_heavy_fps"/>
+				<unit path="units/cop_outfits/armor_skins/zeal_swat_heavy/zeal_swat_heavy_fps"/>
+
+		<!-- Special Outfits Skins -->
+			<!-- HEV -->
+				<texture path="guis/dlcs/special_outfits/armor_skins/hev"/>
+
+				<texture path="units/special_outfits/armor_skins/hev/hev_df"/>
+				<texture path="units/special_outfits/armor_skins/hev/hev_nm"/>
+
+				<material_config path="units/special_outfits/armor_skins/hev/hev"/>
+				<model path="units/special_outfits/armor_skins/hev/hev"/>
+				<object path="units/special_outfits/armor_skins/hev/hev"/>
+				<cooked_physics path="units/special_outfits/armor_skins/hev/hev"/>
+				<unit path="units/special_outfits/armor_skins/hev/hev"/>
+
+				<material_config path="units/special_outfits/armor_skins/hev/hev_fps"/>
+				<model path="units/special_outfits/armor_skins/hev/hev_fps"/>
+				<object path="units/special_outfits/armor_skins/hev/hev_fps"/>
+				<cooked_physics path="units/special_outfits/armor_skins/hev/hev_fps"/>
+				<unit path="units/special_outfits/armor_skins/hev/hev_fps"/>
+
+			<!-- Otis -->
+				<texture path="guis/dlcs/special_outfits/armor_skins/otis"/>
+
+				<texture path="units/special_outfits/armor_skins/otis/otis_body_df"/>
+				<texture path="units/special_outfits/armor_skins/otis/otis_body_nm"/>
+
+				<texture path="units/special_outfits/armor_skins/otis/otis_head_df"/>
+				<texture path="units/special_outfits/armor_skins/otis/otis_head_nm"/>
+
+				<material_config path="units/special_outfits/armor_skins/otis/otis"/>
+				<model path="units/special_outfits/armor_skins/otis/otis"/>
+				<object path="units/special_outfits/armor_skins/otis/otis"/>
+				<cooked_physics path="units/special_outfits/armor_skins/otis/otis"/>
+				<unit path="units/special_outfits/armor_skins/otis/otis"/>
+
+				<material_config path="units/special_outfits/armor_skins/otis/otis_fps"/>
+				<model path="units/special_outfits/armor_skins/otis/otis_fps"/>
+				<object path="units/special_outfits/armor_skins/otis/otis_fps"/>
+				<cooked_physics path="units/special_outfits/armor_skins/otis/otis_fps"/>
+				<unit path="units/special_outfits/armor_skins/otis/otis_fps"/>
+
+			<!-- Rayman -->
+				<texture path="guis/dlcs/special_outfits/armor_skins/rayman"/>
+
+				<texture path="units/special_outfits/armor_skins/rayman/rayman_df"/>
+
+				<material_config path="units/special_outfits/armor_skins/rayman/rayman"/>
+				<model path="units/special_outfits/armor_skins/rayman/rayman"/>
+				<object path="units/special_outfits/armor_skins/rayman/rayman"/>
+				<cooked_physics path="units/special_outfits/armor_skins/rayman/rayman"/>
+				<unit path="units/special_outfits/armor_skins/rayman/rayman"/>
+				<cooked_physics path="units/special_outfits/armor_skins/rayman/rayman"/>
+
+				<material_config path="units/special_outfits/armor_skins/rayman/rayman_fps"/>
+				<model path="units/special_outfits/armor_skins/rayman/rayman_fps"/>
+				<object path="units/special_outfits/armor_skins/rayman/rayman_fps"/>
+				<cooked_physics path="units/special_outfits/armor_skins/rayman/rayman_fps"/>
+				<unit path="units/special_outfits/armor_skins/rayman/rayman_fps"/>
+	</AddFiles>
+
+	<Hooks directory="hooks">
+		<hooks directory="gui_hooks">
+			<hook file="blackmarketgui.lua" source_file="lib/managers/menu/blackmarketgui"/>
+			<hook file="blackmarketmanager.lua" source_file="lib/managers/blackmarketmanager"/>
+		</hooks>
+
+		<hooks directory="las_hooks">
+			<hook file="criminalsmanager.lua" source_file="lib/managers/criminalsmanager"/>
+			<hook file="huskplayermovement.lua" source_file="lib/units/beings/player/huskplayermovement"/>
+			<hook file="menuarmourbase.lua" source_file="lib/units/menu/menuarmourbase"/>
+			<hook file="menuscenemanager.lua" source_file="lib/managers/menu/menuscenemanager"/>
+			<hook file="networkpeer.lua" source_file="lib/network/base/networkpeer"/>
+			<hook file="playerinventory.lua" source_file="lib/units/beings/player/playerinventory"/>
+			<hook file="playerstandard.lua" source_file="lib/units/beings/player/states/playerstandard"/>
+		</hooks>
+
+		<!-- Hooks for defining the outfits. -->
+		<hooks directory="outfits">
+			<hook file="heist_outfits.lua" source_file="lib/tweak_data/armorskinstweakdata"/>
+			<hook file="cop_outfits.lua" source_file="lib/tweak_data/armorskinstweakdata"/>
+			<hook file="special_outfits.lua" source_file="lib/tweak_data/armorskinstweakdata"/>
+
+			<hook file="loader.lua" source_file="lib/tweak_data/blackmarkettweakdata"/>
+		</hooks>
+
+		<!-- Material Skins because I was bored. -->
+		<hooks directory="extra_skin_hooks">
+			<hook file="material_skins.lua" source_file="lib/tweak_data/tweakdatapd2"/>
+			<hook file="weapon_skins.lua" source_file="lib/tweak_data/tweakdatapd2"/>
+		</hooks>
+	</Hooks>
+</table>

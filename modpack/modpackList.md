@@ -1,9 +1,0 @@
-- VanillaHUD+
-- Hide Duplicate Skins
-- Joining Screen Selector
-- Legendary Armour Skins
-- No corners Reborn
-- Replace less pagers modifier in Crime Spree
-- No Confirm Dialogs
-- Meth Helper Updated
-- Custom FOV Updated by Appii

@@ -1,0 +1,79 @@
+{
+	"menu_id": "better_force_start_settings",
+	"parent_menu_id": "blt_options",
+	"title": "better_force_start_settings_title",
+	"description": "better_force_start_settings_description",
+	"items": [
+		{
+			"type": "multiple_choice",
+			"id": "better_force_start_settings_enter_mode_selector",
+			"title": "better_force_start_settings_enter_mode_selector_title",
+			"description": "better_force_start_settings_enter_mode_selector_description",
+			"items": [
+				"better_force_start_settings_enter_mode_selector_everyone",
+				"better_force_start_settings_enter_mode_selector_ready",
+				"better_force_start_settings_enter_mode_selector_host",
+				"better_force_start_settings_enter_mode_selector_off"
+			],
+			"value": "menu_load_mode",
+			"default_value": 2,
+			"callback": "better_force_start_save"
+		},
+		{
+			"type": "multiple_choice",
+			"id": "better_force_start_settings_client",
+			"title": "better_force_start_settings_client_title",
+			"description": "better_force_start_settings_client_description",
+			"items": [
+				"better_force_start_settings_client_everyone",
+				"better_force_start_settings_client_ready",
+				"better_force_start_settings_client_off"
+			],
+			"value": "client_menu_load_mode",
+			"default_value": 3,
+			"callback": "better_force_start_save"
+		},
+		{
+			"type": "toggle",
+			"id": "better_force_start_settings_prompt",
+			"title": "better_force_start_settings_prompt_title",
+			"description": "better_force_start_settings_prompt_description",
+			"callback": "better_force_start_save",
+			"value": "waiting_room",
+			"default_value": true
+		},
+		{
+			"type": "keybind",
+			"id": "better_force_start_settings_keybind_host",
+			"keybind_id": "better_force_start_host",
+			"title": "better_force_start_host_name",
+			"description": "better_force_start_host_description",
+			"run_in_menu": true,
+			"run_in_game": true,
+			"show_in_menu": true,
+			"func": "better_force_start_host"
+		},
+		{
+			"type": "keybind",
+			"id": "better_force_start_settings_keybind_ready",
+			"keybind_id": "better_force_start_ready",
+			"title": "better_force_start_ready_name",
+			"description": "better_force_start_ready_description",
+			"run_in_menu": true,
+			"run_in_game": true,
+			"show_in_menu": true,
+			"func": "better_force_start_ready"
+		},
+		{
+			"type": "keybind",
+			"id": "better_force_start_settings_keybind_everyone",
+			"keybind_id": "better_force_start_everyone",
+			"title": "better_force_start_everyone_title",
+			"description": "better_force_start_everyone_description",
+			"run_in_menu": true,
+			"run_in_game": true,
+			"show_in_menu": true,
+			"func": "better_force_start_everyone"
+		}
+	]
+}

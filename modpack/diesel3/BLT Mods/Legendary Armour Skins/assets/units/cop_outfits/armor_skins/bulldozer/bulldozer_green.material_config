@@ -1,0 +1,11 @@
+<materials version="3" group="ene_bulldozer_4">
+	<material name="mtr_bulldozer" unique="true" render_template="generic:CONTOUR:DIFFUSE_TEXTURE:NORMALMAP:RL_PLAYERS:SKINNED_3WEIGHTS" version="2">
+		<diffuse_texture file="units/payday2/characters/shared_textures/bulldozer_df"/>
+		<bump_normal_texture file="units/payday2/characters/shared_textures/bulldozer_nm"/>
+
+		<variable value="0" type="scalar" name="contour_opacity"/>
+		<variable value="0 0 0" type="vector3" name="contour_color"/>
+	</material>
+
+	<material version="2" render_template="shadow_caster_only:SKINNED_1WEIGHT" name="shadow_caster"/>
+</materials>

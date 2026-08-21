@@ -1,0 +1,17 @@
+<materials version="3" group="ene_medic">
+	<material name="mtr_swat" unique="true" render_template="generic:CONTOUR:DIFFUSE_TEXTURE:NORMALMAP:RL_PLAYERS:SKINNED_3WEIGHTS" version="2">
+		<bump_normal_texture 	file="units/payday2/characters/shared_textures/ene_medic_nm"/>
+		<diffuse_texture 		file="units/payday2/characters/shared_textures/ene_medic_df"/>
+
+		<variable value="0" type="scalar" name="contour_opacity"/>
+		<variable value="0 0 0" type="vector3" name="contour_color"/>
+	</material>
+
+	<material name="mtr_head" unique="true" render_template="generic:CONTOUR:DIFFUSE_TEXTURE:NORMALMAP:RL_PLAYERS:SKINNED_3WEIGHTS" version="2">
+		<bump_normal_texture 	file="units/payday2/characters/shared_textures/ene_medic_head_nm"/>
+		<diffuse_texture 		file="units/payday2/characters/shared_textures/ene_medic_head_df"/>
+
+		<variable value="0" type="scalar" name="contour_opacity"/>
+		<variable value="0 0 0" type="vector3" name="contour_color"/>
+	</material>
+</material>

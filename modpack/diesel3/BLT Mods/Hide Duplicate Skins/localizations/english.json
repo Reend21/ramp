@@ -1,0 +1,18 @@
+{
+	"hds_options_menu_title": "Hide Duplicate Skins",
+	"hds_options_menu_desc": "Hide Duplicate Skins mod options.",
+	"hds_auto_mode_title": "Auto-choose variant",
+	"hds_auto_mode_desc": "Automatically select which copy of a skin to apply.",
+	"hds_auto_mode_prompt": "Disabled",
+	"hds_auto_mode_quality": "Best quality",
+	"hds_auto_mode_bonus": "Stat boost",
+	"hds_min_quality_title": "Min quality",
+	"hds_min_quality_desc": "Only show skins which are of this quality or higher.",
+	"hds_min_quality_poor": "Battle-Worn",
+	"hds_min_quality_fair": "Well-Used",
+	"hds_min_quality_good": "Broken-In",
+	"hds_min_quality_fine": "Lightly-Marked",
+	"hds_min_quality_mint": "Mint-Condition",
+	"hds_dialog_title": "Hide Duplicate Skins",
+	"hds_dialog_body": "Choose skin variant."
+}

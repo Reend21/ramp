@@ -1,0 +1,37 @@
+{
+	"menu_id": "hds_options_menu",
+	"parent_menu_id": "blt_options",
+	"title": "hds_options_menu_title",
+	"description": "hds_options_menu_desc",
+	"back_callback": "hds_callback_save",
+	"items": [
+		{
+			"type": "multiple_choice",
+			"id": "hds_auto_mode",
+			"title": "hds_auto_mode_title",
+			"description": "hds_auto_mode_desc",
+			"callback": "hds_callback_multi",
+			"items": [
+				"hds_auto_mode_prompt",
+				"hds_auto_mode_quality",
+				"hds_auto_mode_bonus"
+			],
+			"value": "hds_auto_mode"
+		},
+		{
+			"type": "multiple_choice",
+			"id": "hds_min_quality",
+			"title": "hds_min_quality_title",
+			"description": "hds_min_quality_desc",
+			"callback": "hds_callback_multi",
+			"items": [
+				"hds_min_quality_poor",
+				"hds_min_quality_fair",
+				"hds_min_quality_good",
+				"hds_min_quality_fine",
+				"hds_min_quality_mint"
+			],
+			"value": "hds_min_quality"
+		}
+	]
+}

@@ -1,0 +1,8 @@
+<materials version="3" group="rayman">
+	<material render_template="generic:CONTOUR:DIFFUSE_TEXTURE" unique="true" version="2" name="mtr_rayman">
+		<diffuse_texture file="units/special_outfits/armor_skins/rayman/rayman_df"/>
+
+		<variable value="0 0 0" type="vector3" name="contour_color"/>
+		<variable value="0" type="scalar" name="contour_opacity"/>
+	</material>
+</materials>

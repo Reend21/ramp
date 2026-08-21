@@ -1,0 +1,31 @@
+{
+	"name": "Hide Duplicate Skins",
+	"description": "Hide duplicate copies of skins when modifying weapons.",
+	"author": "github.com/ncakes",
+	"contact": "github.com/ncakes/PD2-Hide-Duplicate-Skins",
+	"version": "2.0",
+	"priority": 0,
+	"blt_version": 2,
+	"hooks": [
+		{
+			"hook_id": "lib/tweak_data/weapontweakdata",
+			"script_path": "lua/setup.lua"
+		},
+		{
+			"hook_id": "lib/managers/blackmarketmanager",
+			"script_path": "lua/blackmarketmanager.lua"
+		},
+		{
+			"hook_id": "lib/managers/menu/blackmarketgui",
+			"script_path": "lua/blackmarketgui.lua"
+		}
+	],
+	"updates": [
+		{
+			"identifier": "HideDuplicateSkins",
+			"host": {
+				"meta": "https://github.com/ncakes/PD2-Hide-Duplicate-Skins/releases/latest/download/meta.json"
+			}
+		}
+	]
+}

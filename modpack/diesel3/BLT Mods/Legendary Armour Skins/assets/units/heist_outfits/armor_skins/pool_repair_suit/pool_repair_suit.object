@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<dynamic_object>
+	<diesel materials="units/heist_outfits/armor_skins/pool_repair_suit/pool_repair_suit" orientation_object="root_point" />
+
+	<sequence_manager file="units/heist_outfits/armor_skins/pool_repair_suit/pool_repair_suit" />
+
+	<graphics>
+		<object name="g_body" enabled="false" />
+		<object name="g_american" enabled="false" />
+		<object name="g_russian" enabled="false" />
+		<object name="g_spaniard" enabled="false" />
+	</graphics>
+</dynamic_object>

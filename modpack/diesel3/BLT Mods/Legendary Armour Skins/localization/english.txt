@@ -1,0 +1,110 @@
+{
+	"menu_las_options" : "Legendary Armour Skins",
+	"menu_las_options_desc" : "Options for Legendary Armour Skins",
+
+	"menu_las_first_person_armour" : "First Person Default Armour",
+	"menu_las_first_person_armour_desc" : "Display the default armour in first person",
+
+	"menu_las_deployable_menu" : "Show Deployable In Menu",
+	"menu_las_deployable_menu_desc" : "Show the current deployable in the menu, just like in game",
+
+	"menu_las_ignore_heist_outfits" : "Ignore Heist Outfits",
+	"menu_las_ignore_heist_outfits_desc" : "Prevent heist specific outfits from spawning",
+
+	"menu_las_skin_categories" : "Enable Armour Skin Categories",
+	"menu_las_skin_categories_desc" : "Enables categories in the skin selection menu for better organisation of the various skins",
+
+	"menu_las_alt_skin_menu" : "Enable Alternate Armour Skin Menu",
+	"menu_las_alt_skin_menu_desc" : "Enables an adjusted armour selection menu which makes selection easier and has more space so categories are easier to read and use",
+
+	"menu_las_hide_locked" : "Hide Locked Skins",
+	"menu_las_hide_locked_desc" : "Hides skins which you don't currently have unlocked",
+
+	"menu_las_developer_features" : "Enable Developer Features",
+	"menu_las_developer_features_desc" : "Enables some extra developer features to help in the creation legendary armour skins",
+
+	"menu_take_icon_shots" : "$BTN_X x3 to take an inverted alpha channel screenshot",
+
+
+
+	"bm_menu_vanilla_armor_skins" : "Vanilla",
+	"bm_menu_materials_armor_skins" : "Materials",
+	"bm_menu_weapon_skins_armor_skins" : "Weapon Skins",
+
+
+
+	"bm_menu_heist_outfits_armor_skins" : "Heist Outfits",
+
+	"bm_askn_raincoat" : "Raincoat",
+	"bm_askn_raincoat_desc" : "Just in case there's a little downpour and you don't want your immaculate suit getting wet!",
+
+	"bm_askn_stealth_suit" : "Stealth Suit",
+	"bm_askn_stealth_suit_desc" : "A bit more practical than a suit if you don't need to blend in with the crowd.",
+
+	"bm_askn_winter_suit" : "Winter Suit",
+	"bm_askn_winter_suit_desc" : "We're gonna be heading to some cold places soon guys! Here's something to suit up in that'll keep you toasty.",
+
+	"bm_askn_tuxedo_black" : "Tuxedo ( Black )",
+	"bm_askn_tuxedo_white" : "Tuxedo ( White )",
+	"bm_askn_tuxedo_desc" : "Something a bit fancier so you guys can show some professionalism!",
+
+	"bm_askn_scrubs_darkblue" : "Scrubs ( Dark Blue )",
+	"bm_askn_scrubs_green" : "Scrubs ( Green )",
+	"bm_askn_scrubs_lightblue" : "Scrubs ( Light Blue )",
+	"bm_askn_scrubs_purple" : "Scrubs ( Purple )",
+	"bm_askn_scrubs_desc" : "Do you guys remember when we retrieved that virus from No Mercy Hospital? Well, I found the scrubs you guys escaped in, thought you might enjoy them as souvenirs.",
+
+	"bm_askn_murky_suit" : "Murkywater Uniform",
+	"bm_askn_murky_suit_desc" : "Locke managed to get hold of some Murkywater uniforms for us. Keep hold of them, we're going to need them later.",
+
+	"bm_askn_pool_repair_suit" : "Pool Repair Uniform",
+	"bm_askn_pool_repair_suit_desc" : "Well these would've been useful when we revisited our old friend Mr. Mitchell.",
+
+
+
+	"bm_menu_cop_outfits_armor_skins" : "Enemy Outfits",
+
+	"bm_askn_bulldozer_green" : "Bulldozer Armour ( Green )",
+	"bm_askn_bulldozer_black" : "Bulldozer Armour ( Black )",
+	"bm_askn_bulldozer_skull" : "Bulldozer Armour ( Skull )",
+	"bm_askn_bulldozer_mini" : "Bulldozer Armour ( Minigun )",
+	"bm_askn_bulldozer_desc" : "Wolf, for some reason, decided to steal this from the corpse of a recently deceased bulldozer before making his way to the escape van. Well, we have it now, we might as well use it!",
+
+	"bm_askn_murky_hazmat" : "Murkywater Hazmat",
+	"bm_askn_murky_hazmat_alt" : "Murkywater Hazmat ( Alt. )",
+	"bm_askn_murky_hazmat_desc" : "Are you guys planning on doing some bee keeping or something!?",
+
+	"bm_askn_medic" : "Medic Armour",
+	"bm_askn_medic_desc" : "The cleanup crew must've left this behind the last time the safehouse was raided!",
+
+	"bm_askn_phalanx" : "Phalanx Armour",
+	"bm_askn_phalanx_desc" : "For some reason this was left lying around the FBI offices.",
+
+	"bm_askn_russian_medic" : "Russian Medic Armour",
+	"bm_askn_russian_medic_desc" : "How the hell did this get all the way from damn Russia!",
+
+	"bm_askn_winters" : "Captain Winters' Armour",
+	"bm_askn_winters_desc" : "Well the Captain won't be happy about this!",
+
+	"bm_askn_zeal_cloaker" : "Zeal Cloaker Armour",
+	"bm_askn_zeal_cloaker_desc" : "The cleanup crew must've left this behind the last time the safehouse was raided!",
+
+	"bm_askn_zeal_swat" : "Zeal Swat Armour",
+	"bm_askn_zeal_swat_desc" : "The cleanup crew must've left this behind the last time the safehouse was raided!",
+
+	"bm_askn_zeal_swat_heavy" : "Zeal Swat Heavy Armour",
+	"bm_askn_zeal_swat_heavy_desc" : "The cleanup crew must've left this behind the last time the safehouse was raided!",
+
+
+
+	"bm_menu_special_outfits_armor_skins" : "Special Outfits",
+
+	"bm_askn_hev" : "HEV Mark V",
+	"bm_askn_hev_desc" : "'Well, Gordon, I see your HEV Suit still fits you like a glove. At least the glove parts do.'\n - Isaac Kleiner"
+
+	"bm_askn_otis" : "Otis Laurey",
+	"bm_askn_otis_desc" : "'Hey ya, you wouldn’t have a quarter I can borrow, would ya?'\n - Otis Laurey",
+
+	"bm_askn_rayman" : "Rayman",
+	"bm_askn_rayman_desc" : "The Ubisoft character that we all actually wanted in Payday 2."
+}

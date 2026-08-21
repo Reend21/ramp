@@ -1,0 +1,20 @@
+{
+    "name" : "No Confirm Dialogs",
+    "description" : "Stops the game from second guessing all your decisions like a defiant little shit.",
+    "author" : "ReaperTeh, notwa, Dribbleondo",
+    "contact" : "http://steamcommunity.com/profiles/76561197972268306/",
+    "version" : "2",
+    "image": "NCD.png",
+    "blt_version" : 2,
+    "updates": [{
+		
+        "identifier": "NCD"
+	
+    }],
+	"hooks" : [
+		{   
+			"hook_id" : "lib/managers/menumanagerdialogs",
+			"script_path" : "nodialogs.lua"
+		}
+	]
+}

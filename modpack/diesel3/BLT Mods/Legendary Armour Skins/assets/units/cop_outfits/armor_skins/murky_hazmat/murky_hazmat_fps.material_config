@@ -1,0 +1,8 @@
+<materials version="3" group="ene_murky_hazmat">
+	<material name="mtr_body" render_template="generic:DEPTH_SCALING:DIFFUSE_TEXTURE:NORMALMAP:SKINNED_3WEIGHTS" version="2" >
+		<diffuse_texture file="units/pd2_dlc_des/characters/civ_male_hazmat/material_body_df"/>
+		<bump_normal_texture file="units/pd2_dlc_des/characters/civ_male_hazmat/material_body_nm"/>
+	</material>
+
+	<material name="mtr_glass" render_template="decal"/>
+</materials>

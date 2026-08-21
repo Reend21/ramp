@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<unit type="dah" slot="1">
+	<object file="units/cop_outfits/armor_skins/zeal_swat_heavy/zeal_swat_heavy_fps" />
+
+	<extensions>
+		<extension name="unit_data" class="ScriptUnitData" />
+		<extension name="contour" class="ContourExt"/>
+	</extensions>
+</unit>

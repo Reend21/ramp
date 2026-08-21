@@ -1,0 +1,19 @@
+{
+	"joining_screen_selector_options_title" : "Joining Screen Selector",
+	"joining_screen_selector_options_desc" : "Joining Screen Selector Options",
+	
+	"jss_operate_type_title" : "Operate Type",
+	"jss_operate_type_desc" : "Buttons : Three Options, Keybind Default: [F1]Disconnect [F4]Kick Player [F5]Ban Player",
+	"jss_operate_buttons" : "Buttons",
+	"jss_operate_keybind" : "Keybind",
+	"jss_level_and_platform_title" : "Level and Platform",
+	"jss_level_and_platform_desc" : "Display Level or Platform",
+	"jss_level_and_platform" : "Level and Platform",
+	"jss_level" : "Level",
+	"jss_platform" : "Platform",
+	"jss_lp_empty" : "Empty",
+	"jss_show_modlist_title" : "Show Modlist",
+	"jss_show_modlist_desc" : "Show Modlist in Joining Screen",
+	"jss_show_skillpoints_title" : "Skillpoints And Perk Deck",
+	"jss_show_skillpoints_desc" : "Show Skillpoints And Perk Deck"
+}

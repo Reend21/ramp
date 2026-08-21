@@ -1,0 +1,25 @@
+{
+	"name": "Neo Force Start",
+	"description": "Allows you to start heists as the host without all players ready, now leaving unreadied players in the lobby until they ready up",
+	"author": "Andy_Wirus",
+	"contact": "https://codeberg.org/Andy_Wirus/NeoForceStart",
+	"version": "0.1",
+	"updates": [
+		{
+			"identifier": "neoforcestart",
+			"host": {
+				"meta": "https://codeberg.org/Andy_Wirus/NeoForceStart/releases/download/latest/meta.json"
+			}
+		}
+	],
+	"hooks": [
+		{
+			"hook_id": "lib/network/base/networkmanager",
+			"script_path": "main.lua"
+		},
+		{
+			"hook_id": "lib/managers/menumanager",
+			"script_path": "menu.lua"
+		}
+	]
+}

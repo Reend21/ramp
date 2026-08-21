@@ -1,0 +1,10 @@
+# Neo Force Start
+A Payday 2 mod inspired by Dyrax's Start Heist Solo mod. When used as the host, it allows you to force start a heist with a keybind or by spamming the ready/unready button. It can be configured to force start the heist with all players like existing mods have already done for years, start with only the host like Start Heist Solo, or start with only players that have readied up, allowing whatever player requiring you to force start in the first place to drop in when they are ready. Improving upon Start Heist Solo, it fixes the bug where clients needed to unready and reready to drop in to the heist by optionally either sending them to spectator mode with the host drop in prompt immediately, or refreshing their briefing GUI, which also prevents buying assets, which do not work anyway. It can also be configured to allow clients to start the heist by spamming the ready/unready button, and it even allows the host to stay behind and drop in later if the host is not ready. Clients do not need the mod for any of its features.
+
+## Known Issues
+- If a client force starts a heist without the host, all clients' timers will be desynced until the host drops in. When this happens, the host's timer will be set to zero, and all clients will attempt to sync to it.
+- If a client force starts a heist without the host, the host will still be able to purchase assets, and in some cases, the assets will actually spawn in the map when the host eventually joins. Preplanning is, however, disabled properly.
+- If the host has the prompt join mode activated for the lobby, and a client force starts a heist without the host, any future clients that attempt to join will still need to be dropped in by the host, even though the host is not playing and their prompt is not visible over the briefing GUI, though it is functional.
+
+## Disclaimer
+I have only been able to test and develop this mod in two-player lobbies while visiting family. There may be more issues unlisted that I do not know about. I am now home, and unable to fix any problems that would require more than one player to diagnose.

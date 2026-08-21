@@ -1,0 +1,6 @@
+<materials version="3" group="ene_swat_2">
+	<material name="mtr_swat" render_template="generic:DEPTH_SCALING:DIFFUSE_TEXTURE:NORMALMAP:SKINNED_3WEIGHTS" version="2">
+		<bump_normal_texture 	file="units/payday2/characters/shared_textures/ene_medic_nm"/>
+		<diffuse_texture 		file="units/payday2/characters/shared_textures/ene_medic_df"/>
+	</material>
+</materials>

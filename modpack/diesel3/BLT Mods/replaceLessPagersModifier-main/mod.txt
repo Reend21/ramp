@@ -1,0 +1,19 @@
+{
+	"blt_version" : 2,
+	"name" : "Replace less pagers modifier",
+	"description" : "Replaces less pagers modifier with less pager response time",
+	"author" : " no",
+	"version" : "1.3.0",
+	"priority" : 0,
+	"color" : "0.000 1.000 1.000",
+	"hooks" : [
+		{ "hook_id" : "lib/modifiers/modifierlesspagers", "script_path" : "modifierlesstime.lua"},
+		{ "hook_id" : "lib/managers/localizationmanager", "script_path" : "modifierrename.lua"},
+	]
+	"updates" : [
+		{
+			"identifier" : "ReplaceLessPagersModifier",
+			"host" : {"meta" : "https://raw.githubusercontent.com/Florane/replaceLessPagersModifier/refs/heads/main/meta.json"}
+		}
+	]
+}

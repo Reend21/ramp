@@ -1,0 +1,23 @@
+{
+	"menu_id" : "custom_FOV_menu_id",
+	"parent_menu_id" : "blt_options",
+	"title" : "custom_FOV_menu_title",
+	"description" : "custom_FOV_menu_desc",
+	"focus_changed_callback" : "CustomFOV_Focus",
+	"back_callback" : "CustomFOV_SaveSettings",
+	"area_bg" : "half",
+	"items" : [
+		{
+			"type" : "slider",
+			"id" : "sld_more_FOV",
+			"title" : "sld_more_FOV_title",
+			"description" : "sld_more_FOV_desc",
+			"callback" : "set_fov_multiplier",
+			"value" : "fov_multiplier",
+			"default_value" : 1,
+			"max" : 2.5,
+			"min" : 1.0,
+			"step" : 0.1
+		}
+	]
+}

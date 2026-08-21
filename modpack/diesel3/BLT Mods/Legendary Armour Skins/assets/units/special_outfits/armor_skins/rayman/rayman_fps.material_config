@@ -1,0 +1,5 @@
+<materials version="3" group="rayman">
+	<material render_template="generic:DEPTH_SCALING:DIFFUSE_TEXTURE" unique="true" version="2" name="mtr_rayman">
+		<diffuse_texture file="units/special_outfits/armor_skins/rayman/rayman_df"/>
+	</material>
+</materials>

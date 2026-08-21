@@ -13,6 +13,7 @@ Reend's Awesome Modpack for Payday 2
 > *This modpack targets players who want to play Payday 2 with minimized bugs, significantly improved AI, and a wide range of QoL improvements. Now Diesel 3 compatible!*
 
 This modpack isn't just a "vanilla but slightly better" modpack. It includes:
+
 - Mods that improve enemy and hostile AI
 - General QoL (Quality of Life) mods
 - Bug fixes and anti-crash mods
@@ -22,6 +23,7 @@ This modpack isn't just a "vanilla but slightly better" modpack. It includes:
 *Note: This modpack may not suit players looking for a strictly vanilla experience with only crash fixes, or those who play the game just to criticize it.*
 
 ### What this modpack does NOT include:
+
 - Mods that add completely new mechanics to the game
 - Overhaul mods (e.g., [Restoration Mod](https://modworkshop.net/mod/428))
 - Mods that add new music, maps, weapons, etc.
@@ -33,29 +35,33 @@ I'm open to any mod suggestions. If you tell me which mods are good and which on
 
 ## Mods in This Modpack
 
-- VanillaHUD+
-- Hide Duplicate Skins
-- Joining Screen Selector
-- Legendary Armour Skins
-- No corners Reborn
-- Replace less pagers modifier in Crime Spree
-- No Confirm Dialogs
-- Meth Helper Updated
-- Custom FOV Updated by Appii
-
+- Auto Discard Parachute {#0FD60F}(by) [Octo](https://modworkshop.net/mod/45902)
+- BeardLib {#0FD60F}(by) [Simon](https://modworkshop.net/mod/14924)
+- CustomFOV {#0FD60F}(by) [Appii ニャ](https://modworkshop.net/mod/33680) (og is "Gesicht")
+- Difficulty Screen Animation {#0FD60F}(by) [Undeadsewer](https://modworkshop.net/mod/20020)
+- Everything Meth {#0FD60F}(by) [Maromalo](https://modworkshop.net/mod/38500)
+- Force Host Pre-planning Choice {#0FD60F}(by) [Maromalo](https://modworkshop.net/mod/38500)
+- Hide Duplicate Skins {#0FD60F}(by) [fragtrane](https://modworkshop.net/mod/26920)
+- Joining Screen Selector {#0FD60F}(by) [Chimecho](https://modworkshop.net/mod/42902)
+- Legendary Armour Skins {#0FD60F}(by) [Cpone](https://modworkshop.net/mod/24006)
+- Neo Force Start {#0FD60F}(by) [Andy_Wirus](https://modworkshop.net/mod/58139)
+- No Confirm Dialogs V2 {#0FD60F}(by) [Avalanche](https://modworkshop.net/mod/12805)
+- Offline First {#0FD60F}(by) [Chimecho](https://modworkshop.net/mod/48122)
+- VanillaHUD Plus {#0FD60F}(by) [test1](https://modworkshop.net/mod/25629)
+- No Corners Reborn {#0FD60F}(by) [XVII](https://modworkshop.net/mod/20561)
+- Replace Less Pagers Modifier {#0FD60F}(by) [Florane](https://modworkshop.net/mod/50103)
 ## Installation
 
 ### Prerequisites
 
 - **SuperBLT** (version with Diesel 3 Engine support)
-- **BeardLib**
 
 ### Installing the Modpack
 
 - Download the ZIP file via GitHub or ModWorkshop and extract it
-- Drop the `autoInstallScript` folder into your `mods` folder
-- Run the game and go to Setting > BeardLib Mod Manager and then download the mods
-- You're done!
+- Drop the files inside `BLT Mods` folder into your `mods` folder
+- Drop the files inside `Overrides Mods` folder into your `assets/mod_overrides` folder
+- Run the game and you're done!
 
 ## License
 

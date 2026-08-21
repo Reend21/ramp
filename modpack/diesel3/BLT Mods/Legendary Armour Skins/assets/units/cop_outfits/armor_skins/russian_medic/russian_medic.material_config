@@ -1,0 +1,17 @@
+<materials version="3" group="ene_russian_medic">
+	<material name="mtr_swat" unique="true" render_template="generic:CONTOUR:DIFFUSE_TEXTURE:NORMALMAP:RL_PLAYERS:SKINNED_3WEIGHTS" version="2">
+		<bump_normal_texture 	file="units/pd2_dlc_mad/characters/ene_akan_medic_ak47_ass/ene_akan_medic_body_nm"/>
+		<diffuse_texture 		file="units/pd2_dlc_mad/characters/ene_akan_medic_ak47_ass/ene_akan_medic_body_df"/>
+
+		<variable value="0" type="scalar" name="contour_opacity"/>
+		<variable value="0 0 0" type="vector3" name="contour_color"/>
+	</material>
+
+	<material name="mtr_head" unique="true" render_template="generic:CONTOUR:DIFFUSE_TEXTURE:NORMALMAP:RL_PLAYERS:SKINNED_3WEIGHTS" version="2">
+		<bump_normal_texture 	file="units/pd2_dlc_mad/characters/ene_akan_medic_ak47_ass/ene_akan_medic_head_nm"/>
+		<diffuse_texture 		file="units/pd2_dlc_mad/characters/ene_akan_medic_ak47_ass/ene_akan_medic_head_df"/>
+
+		<variable value="0" type="scalar" name="contour_opacity"/>
+		<variable value="0 0 0" type="vector3" name="contour_color"/>
+	</material>
+</materials>
