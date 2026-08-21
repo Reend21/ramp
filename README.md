@@ -35,21 +35,21 @@ I'm open to any mod suggestions. If you tell me which mods are good and which on
 
 ## Mods in This Modpack
 
-- Auto Discard Parachute {#0FD60F}(by) [Octo](https://modworkshop.net/mod/45902)
-- BeardLib {#0FD60F}(by) [Simon](https://modworkshop.net/mod/14924)
-- CustomFOV {#0FD60F}(by) [Appii ニャ](https://modworkshop.net/mod/33680) (og is "Gesicht")
-- Difficulty Screen Animation {#0FD60F}(by) [Undeadsewer](https://modworkshop.net/mod/20020)
-- Everything Meth {#0FD60F}(by) [Maromalo](https://modworkshop.net/mod/38500)
-- Force Host Pre-planning Choice {#0FD60F}(by) [Maromalo](https://modworkshop.net/mod/38500)
-- Hide Duplicate Skins {#0FD60F}(by) [fragtrane](https://modworkshop.net/mod/26920)
-- Joining Screen Selector {#0FD60F}(by) [Chimecho](https://modworkshop.net/mod/42902)
-- Legendary Armour Skins {#0FD60F}(by) [Cpone](https://modworkshop.net/mod/24006)
-- Neo Force Start {#0FD60F}(by) [Andy_Wirus](https://modworkshop.net/mod/58139)
-- No Confirm Dialogs V2 {#0FD60F}(by) [Avalanche](https://modworkshop.net/mod/12805)
-- Offline First {#0FD60F}(by) [Chimecho](https://modworkshop.net/mod/48122)
-- VanillaHUD Plus {#0FD60F}(by) [test1](https://modworkshop.net/mod/25629)
-- No Corners Reborn {#0FD60F}(by) [XVII](https://modworkshop.net/mod/20561)
-- Replace Less Pagers Modifier {#0FD60F}(by) [Florane](https://modworkshop.net/mod/50103)
+- Auto Discard Parachute by [Octo](https://modworkshop.net/mod/45902)
+- BeardLib by [Simon](https://modworkshop.net/mod/14924)
+- CustomFOV by [Appii ニャ](https://modworkshop.net/mod/33680) (og is "Gesicht")
+- Difficulty Screen Animation by [Undeadsewer](https://modworkshop.net/mod/20020)
+- Everything Meth by [Maromalo](https://modworkshop.net/mod/38500)
+- Force Host Pre-planning Choice by [Maromalo](https://modworkshop.net/mod/38500)
+- Hide Duplicate Skins by [fragtrane](https://modworkshop.net/mod/26920)
+- Joining Screen Selector by [Chimecho](https://modworkshop.net/mod/42902)
+- Legendary Armour Skins by [Cpone](https://modworkshop.net/mod/24006)
+- Neo Force Start by [Andy_Wirus](https://modworkshop.net/mod/58139)
+- No Confirm Dialogs V2 by [Avalanche](https://modworkshop.net/mod/12805)
+- Offline First by [Chimecho](https://modworkshop.net/mod/48122)
+- VanillaHUD Plus by [test1](https://modworkshop.net/mod/25629)
+- No Corners Reborn by [XVII](https://modworkshop.net/mod/20561)
+- Replace Less Pagers Modifier by [Florane](https://modworkshop.net/mod/50103)
 ## Installation
 
 ### Prerequisites
